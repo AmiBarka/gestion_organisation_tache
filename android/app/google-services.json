@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "506249773629",
+    "project_id": "organisation-tache",
+    "storage_bucket": "organisation-tache.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:506249773629:android:3bf7810b5a4b5f1ba4e054",
+        "android_client_info": {
+          "package_name": "com.example.organisation_tache"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBLuLuujQYzdjjpe5KOXDMBLbF7VmOBu3E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
